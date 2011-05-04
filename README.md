@@ -4,8 +4,9 @@ Copyright 2011 Freetronics Pty Ltd
 Freetronics site:  <www.freetronics.com>  
 Freetronics email: <info@freetronics.com>  
 
-Simple shield to connect an HD44780-compatible, 16x2 LCD module to an
-Arduino or compatible such as a Freetronics Eleven.
+A compact shield to connect an HD44780-compatible, 16x2 LCD module
+and interface buttons to an Arduino or compatible such as a
+Freetronics Eleven.
 
 Features:
 
